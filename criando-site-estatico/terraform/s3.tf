@@ -30,11 +30,11 @@ resource "aws_s3_bucket" "redirect" {
 
 resource "null_resource" "site_files" {
   triggers {
-    file1 = "${md5(file("../website/safario/index.html"))}"
+    file1 = "${md5(file("../website/Evie/index.html"))}"
   }
 
   provisioner "local-exec" {
-    command = "aws s3 sync ../website/safario/ s3://${var.domain}"
+    command = "aws s3 sync ../website/Evie/ s3://${var.domain}"
   }
 
   depends_on = ["aws_s3_bucket.site"]
