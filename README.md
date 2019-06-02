@@ -1,8 +1,6 @@
 # terraform_in_practice
 
 
-### 
+### Criando aplicações auto escaláveis 
 
-Estrutura 3
-
-https://test-highlander-s3.s3-sa-east-1.amazonaws.com/autoscaling.png
+<img src="https://test-highlander-s3.s3-sa-east-1.amazonaws.com/autoscaling.png" width="50%" valign="top" />
