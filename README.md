@@ -5,7 +5,7 @@
 
 
 
-#### 02 - Criando site estatico
+### 02 - Criando site estatico
 
 <img src="https://test-highlander-s3.s3-sa-east-1.amazonaws.com/site-estatico.png" width="60%" valign="top" />
 
@@ -24,7 +24,7 @@ terraform destroy -auto-approve
 ```
 
 
-#### 03 - Criando aplicações auto escaláveis 
+### 03 - Criando aplicações auto escaláveis 
 
 <img src="https://test-highlander-s3.s3-sa-east-1.amazonaws.com/autoscaling.png" width="60%" valign="top" />
 
