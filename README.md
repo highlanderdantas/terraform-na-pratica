@@ -45,7 +45,7 @@ terraform destroy -auto-approve
 
 ### 04 - Criando aplicações serveless 
 
-<img src="htttps://test-highlander-s3.s3-sa-east-1.amazonaws.com/serveless.png" width="60%" valign="top" />
+<img src="https://test-highlander-s3.s3-sa-east-1.amazonaws.com/serveless.png" width="60%" valign="top" />
 
 ##### Inicializando os recursos 
 
